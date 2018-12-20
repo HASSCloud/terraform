@@ -1,0 +1,5 @@
+public_ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDg90FNLpZYu+MliVZUR1JLxHbjk/eP+WA1gd3DwvXWGfuHZAxy7yMwLE+gilmw4TTC+SR9oNaDzuQElsPN3Ll5LnEYcpjEQD3dz/g+QT3QlF3X5yTT2B7FRqe0ElYz+hc7JHWX3fuCnoo0FaO/dGyi5vCgEPP1KwK/ygzhK82v5TYPRko74ZxE62Syi8Qbb5vb3q540rV0fq0Un0U7s8FHow1/uTDkVMf1MCQpzaburJzcKYhaDKx0AgODydWaFeA3F4SZqlVUs/kcELfhzDnuaB9ZmzZLLtfx8oDZ0WQ27ez8PqfsAP9iP8EIRd0cKfcdvsW5K4vkfwY6CbcZBFIZ ubuntu@ansible-seed"
+
+availability_zone = "tasmania"
+volume_size = 40
+num_instances = 3
