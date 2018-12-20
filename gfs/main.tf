@@ -16,6 +16,7 @@ resource "openstack_compute_instance_v2" "instance" {
 
   metadata {
     groups = "kube-node,gluster"
+    role   = "gluster"
   }
 
   network {
